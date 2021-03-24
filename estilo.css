@@ -38,6 +38,23 @@ a:hover{
 
 }
 
+.linha-imagens{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+}
+
+.linha-imagens a {
+    width: 1000px;
+    height:300px;
+
+}
+.linha-imagens a img{
+    width: 1000px;
+    height:300px;
+}
+
 
 
 
